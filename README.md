@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/banana.gif "Trained Agent"
+[image1]: ./banana.gif "Trained Agent"
 
 # Project 1: Navigation
 
